@@ -1,4 +1,4 @@
-## **Automated AWS Receipt Processing System**
+# **Automated AWS Receipt Processing System**
 
 ## **Overview**
 This project automates the process of extracting, storing, and notifying users about receipt data using AWS services. It leverages Amazon Textract, AWS Lambda, Amazon S3, DynamoDB, and SES to build a fully serverless solution for receipt processing.
