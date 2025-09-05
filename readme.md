@@ -15,7 +15,7 @@ Amazon DynamoDB → Store extracted structured data
 Amazon SES (Simple Email Service) → Send email notifications
 
 
-**Architecture Diagram**
+## **Architecture Diagram**
 ![alt text](<Blank diagram (1).png>)
 
 ## **Workflow Steps**
